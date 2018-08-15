@@ -4,6 +4,8 @@ Notable changes between versions.
 
 ## Latest
 
+* Update Calico from v3.1.3 to v3.2.0
+
 #### Bare-Metal
 
 * Remove `controller_networkds` and `worker_networkds` variables. Use Container Linux Config snippets [#277](https://github.com/poseidon/typhoon/pull/277)
